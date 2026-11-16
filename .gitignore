@@ -1,5 +1,14 @@
 # Node.gitignore template copied from https://github.com/github/gitignore/blob/main/Node.gitignore
 
+# assets
+src/images/*
+
+# build artefacts
+public
+
+# macOS related files
+.DS_Store
+
 # Logs
 logs
 *.log
