@@ -12,3 +12,9 @@ Build a minimal, single-page, visual-focused, colorful, portfolio which also has
 - Research 
 - Active Projects 
 - Math
+
+## V1
+![version 1 webpage image](image.bmp)
+improvements needed:
+- make it mobile responsive
+- add social media profile links

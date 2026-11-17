@@ -1,4 +1,26 @@
 body {
-    background-color: red;
-    color: blue;
+    background-color: rgb(247, 240, 231);
+}
+
+.intro {
+    margin-top: 150px;
+}
+
+.content {
+    color: black;
+    font-size: 60px;
+    background-color: rgb(15, 168, 251);
+    padding-top: 200px;
+    padding-bottom: 285px;
+    padding-left: 570px;
+    padding-right: 570px;
+    text-align: center;
+}
+
+img.logo {
+    width: 20%;
+    height: auto;
+    position: relative;
+    top: 60px;
+    left: 20%;
 }

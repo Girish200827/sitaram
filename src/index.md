@@ -1,5 +1,4 @@
 ---
-title: sitaram
 layout: "base.njk"
 ---
 
