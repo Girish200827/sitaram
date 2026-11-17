@@ -4,6 +4,7 @@
 src/images/*
 
 # build artefacts
+public/
 _site
 
 # macOS related files

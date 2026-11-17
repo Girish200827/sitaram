@@ -7,6 +7,6 @@ export default async function (eleventyConfig) {
 export const config = {
   dir: {
     input: "src",
-    output: "public"
+    output: "docs"
   },
 };
